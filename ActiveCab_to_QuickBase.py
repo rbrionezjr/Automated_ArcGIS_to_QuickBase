@@ -17,6 +17,11 @@ import traceback
 import csv
 from pathlib import Path
 
+# Change Log
+""" - Created a GIT repository for version control and collaboration.
+    - Added change log.
+"""
+
 
 # ----------------------------
 # Logging
