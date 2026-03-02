@@ -109,7 +109,7 @@ def export_unmatched_cabinets(cabinet_ids: List[str]) -> None:
 QB_REALM = "omnifiber.quickbase.com"
 
 # ArcGIS Active Cabinets (Feature Layer Item ID)
-ACTIVE_CAB_LAYER_ITEM_ID = "8a42d8a5d7b649109101b15647a2235d"
+ACTIVE_CAB_LAYER_ITEM_ID = "434116c093024bc2a746e7dfbaeb1c24"
 
 # Quickbase Active Cabinets table
 QB_ACTIVE_TABLE_ID = "bts8av3cw"
